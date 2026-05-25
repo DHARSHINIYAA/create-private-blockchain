@@ -11,20 +11,7 @@ To create a Private Blockchain and to add nodes, create accounts, transfer Ether
 In your command prompt, create a directory go-ethereum. 
 4.Create two nodes inside go-ethereum. 
 5.Open vs code using “code .” 
-# EXP - CREATE-PRIVATE-BLOCK-CHAIN
-## NAME - ARULARASI U
-## REG NO - 212223100002
-# AIM 
-To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating and deploying Smart contract.
 
-# PROCEDURE
-
-1.Go to https //geth.ethereum.org/ and download the software for windows. While installing select both geth and development tools. 
-2.To check whether the geth is installed ,run “geth” command in your command prompt. 
-3.To create a Private Blockchain , we must create a genesis block. 
-In your command prompt, create a directory go-ethereum. 
-4.Create two nodes inside go-ethereum. 
-5.Open vs code using “code .” 
 <img width="940" height="435" alt="image" src="https://github.com/user-attachments/assets/eb4c894b-338d-43bf-a8de-b3de3b8d2487" />
 
 
